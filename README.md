@@ -18,6 +18,8 @@ full is asserted when buffer is completely filled.
 empty is asserted when there is no data to read.
 
 ## Simulation
+EDA Playground
+- online
 Icarus Verilog 
 - iverilog -o sim.vvp Sync_FIFO.v Sync_FIFO_tb.v
 - vvp sim.vvp
