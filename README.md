@@ -1,6 +1,3 @@
-
-# Project Sync_FIFO
-
 # Project Synchronous FIFO in Verilog
 
 A simple and efficient **Synchronous FIFO (First-In First-Out)** buffer implemented in Verilog. This design is commonly used in digital systems to safely pass data between modules that share the same clock domain.
