@@ -23,6 +23,9 @@ Icarus Verilog
 - vvp sim.vvp
 - gtkwave waveform.vcd
 
+## Waveform
+![image](https://github.com/user-attachments/assets/b191c382-40d1-427a-8804-0d61eeee7118)
+
 ## Learning Outcomes
 - Understood how a FIFO works using pointers and memory.
 - Gained hands-on experience with Verilog coding.
