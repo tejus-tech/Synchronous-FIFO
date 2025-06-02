@@ -26,7 +26,7 @@ Icarus Verilog
 - gtkwave waveform.vcd
 
 ## Waveform
-![image](https://github.com/user-attachments/assets/b191c382-40d1-427a-8804-0d61eeee7118)
+![image](https://github.com/user-attachments/assets/8406a62d-37c5-40c1-9efe-13183c2389cd)
 
 ## Learning Outcomes
 - Understood how a FIFO works using pointers and memory.
